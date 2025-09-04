@@ -1,5 +1,5 @@
-# H1
-## H2
+# Hi
+## How ya doinggg
 ### H3
 #### H4
 ##### H5
@@ -11,5 +11,6 @@ string="Hello Git"
 - [ ] Turn on Github pages
 - [ ] Outline my Portfolio
 - [ ] Introduce myself to the world
+
 
 
