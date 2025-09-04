@@ -8,4 +8,8 @@
 ```python
 string="Hello Git"
 ```
+- [ ] Turn on Github pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world
+
 
